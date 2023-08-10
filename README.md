@@ -50,8 +50,11 @@ These instructions will help you set up and run the project on your local machin
 
 ## Screenshots
 
-![Screenshots]([https://drive.google.com/drive/folders/1H1HhPIMWpATMEpKxT1jxowgBdtar-RxA?usp=drive_link])
+![Registration Form](https://drive.google.com/file/d/1gD58whoO2ga2D6tAQ6p5PoCKecZtPuG2/view?usp=drive_link)
 
+![Update Page](https://drive.google.com/file/d/1-W7IokIu-LSkgwIjZ_TbZl436qJTvuyf/view?usp=drive_link)
+
+![Display Page](https://drive.google.com/file/d/1ILMzjbrq0WQoSfw6gLTl6EYa1N-A8nJt/view?usp=drive_link)
 
 ## Contributing
 
